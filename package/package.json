@@ -1,0 +1,18 @@
+{
+  "name": "@serpgames/traffic-escape",
+  "version": "1.0.0",
+  "description": "traffic-escape - Browser game hosted by SERP Games",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["game", "traffic-escape", "browser-game"],
+  "author": "SERP Games",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serpgames/traffic-escape.git"
+  },
+  "files": [
+    "index.js",
+    "game/"
+  ]
+}
