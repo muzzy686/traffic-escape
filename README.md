@@ -4,7 +4,8 @@ Browser game hosted by SERP Games.
 
 ## How to Play
 
-Visit https://serpgames.github.io/traffic-escape/ to play!
+Visit http://trafficescape.fun/package/game/   to play!
+Visit  to play!
 
 ## Credits
 
